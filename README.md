@@ -32,3 +32,7 @@ https://documenter.getpostman.com/view/10369370/UVC8DmZS
 
 ![image](https://user-images.githubusercontent.com/51280827/141698792-e37a5765-913f-430a-84dc-63393e5b2dec.png)
 
+<h1>보완</h1>
+![image](https://user-images.githubusercontent.com/51280827/141698950-844049c7-1054-419f-987d-bf8a99110390.png)
+
+docker pull jnano94/jungsunwoung_skt 업로드에는 성공했으나 무언가 잘 안됨
