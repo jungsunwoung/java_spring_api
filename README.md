@@ -19,9 +19,13 @@ https://documenter.getpostman.com/view/10369370/UVC8DmZS
 </ul>
 
 <h1>#예시</h1>
+
 ##오답인 경우
+
 ![image](https://user-images.githubusercontent.com/51280827/141698723-5a09c5f0-33e1-44b7-80c0-6e030f2f2aec.png)
+
 ##정답인 경우
+
 ![image](https://user-images.githubusercontent.com/51280827/141698733-5d7b9d69-8323-4b28-996c-b91b78ded0d9.png)
 
 ##조회했을경우
