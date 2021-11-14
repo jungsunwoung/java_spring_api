@@ -1,0 +1,17 @@
+version: "3"
+services:
+  #이건 서비스 명입니다.
+  sunwoung_skt_db:
+    # 컨테이너 이름을 설정하고 싶다면 작성하세요.
+    container_name: sunwoung_skt_db
+    image: mysql
+    environment:
+      MYSQL_DATABASE: test
+      MYSQL_ROOT_PASSWORD: 'wpdlsksh94'
+    ports:
+      - 3306:3306
+    command: # 명령어 실행
+    - --character-set-server=utf8mb4
+    - --collation-server=utf8mb4_unicode_ci
+
+    #docker-compose up -d
